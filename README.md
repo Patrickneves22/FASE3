@@ -1,5 +1,6 @@
 # FASE3
 script simulador_smart_office.py e o arquivo smart_office_data.csv. 
+
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
